@@ -1,2 +1,14 @@
+# Node.js
 /node_modules
 package-lock.json
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
